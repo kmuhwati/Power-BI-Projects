@@ -22,7 +22,7 @@ Each folder contains the dataset(in xlsx or csv format), the dashboard (in pbix)
 ##  Finding relationships between products at a Retail in France
 
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/dashboard.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/dashboard.png)
 
 ## Power BI Projects
 
@@ -53,7 +53,7 @@ If you have any feedback or suggestions for improvement, please feel free to cre
 
 # Budget Sales Analysis
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/Budget%20Sales%20Analysis/Sales%20and%20Budget%20Analysis.png)
 
 This project analyzes budget sales data to identify trends and patterns. The project includes a variety of visualizations, such as line charts, bar charts, and pie charts, that can be used to track sales performance over time, compare sales across different categories, and identify areas where sales can be improved.
 
@@ -70,7 +70,7 @@ Results:
 
 # Heart Disease Analysis
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Heart%20Disease%20Analysis/Heart%20Disease%20Analysis.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/Heart%20Disease%20Analysis/Heart%20Disease%20Analysis.png)
 
 This project analyzes heart disease data to identify risk factors and predictors of heart disease. The project includes a variety of visualizations, such as scatter plots, heatmaps, and forest plots, that can be used to identify relationships between different variables and heart disease.
 
@@ -88,7 +88,7 @@ An AI-powered heart disease analysis app utilizes machine learning algorithms to
 
 # Retail Analysis
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Retail%20Analysis/Retail%20Analysis.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/Retail%20Analysis/Retail%20Analysis.png)
 
 This project analyzes retail data to identify trends and patterns in customer behavior. The project includes a variety of visualizations, such as line charts, bar charts, and heatmaps, that can be used to track sales performance over time, compare sales across different categories, and identify customer segments.
 
@@ -105,7 +105,7 @@ The Predictive Retail Analysis App, powered by cutting-edge artificial intellige
 
 # School Data Analysis
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/School%20Data%20Analysis/School%20Data%20Analysis.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/School%20Data%20Analysis/School%20Data%20Analysis.png)
 
 This project analyzes school data to identify trends and patterns in student performance. The project includes a variety of visualizations, such as line charts, bar charts, and scatter plots, that can be used to track student progress over time, compare student performance across different schools, and identify students who may need additional support.
 
@@ -122,7 +122,7 @@ Data-driven analysis of school data, utilizing tools and techniques like machine
 
 # Pokémon Analysis
 
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Pokemon%20Analysis/Pokemon%20Analysis.png)
+![APP](https://github.com/kmuhwati/PowerBi-Dashboards/blob/main/Pokemon%20Analysis/Pokemon%20Analysis.png)
 
 This project analyzes Pokémon data to identify the most popular Pokémon, the strongest Pokémon, and the Pokémon with the most unique abilities. The project includes a variety of visualizations, such as bar charts, pie charts, and treemaps, that can be used to compare and contrast different Pokémon.
 
